@@ -1,0 +1,3 @@
+module AssignOnce
+
+end # module
